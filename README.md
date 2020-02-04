@@ -2,7 +2,7 @@
 
 This is the demo application to show a state management pattern in React with hooks!!!
 
-Email: admin,
+Email: admin <br/>
 Password: password
 
 # Getting Started
